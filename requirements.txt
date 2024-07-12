@@ -1,5 +1,6 @@
 snowflake-connector-python
 snowflake-snowpark-python
+snowflake
 streamlit==1.31.1
 requests
-pip install --upgrade pip
+pandas
